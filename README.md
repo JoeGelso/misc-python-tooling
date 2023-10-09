@@ -12,7 +12,7 @@ This is free and unencumbered software released into the public domain. Anyone i
 
 ## Tools List
 
-- **xkdb-merge**: A tool to merge two KeePassXC databases.
+- **kdbx-merge**: A tool to merge two KeePassXC databases.
 
 ## Contributing
 

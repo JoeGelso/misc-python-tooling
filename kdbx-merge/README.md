@@ -1,8 +1,8 @@
-# xkdb-merge
+# kdbx-merge
 
 ## Description
 
-`xkdb-merge` is a Python script that merges two KeePassXC databases into a single database. It utilizes the PyKeePass library to handle the databases and perform the merge operation. I developed this script to help me keep instances of my persoanl password vaults synced, as I store my vaults locally as well as online drives.
+`kdbx-merge` is a Python script that merges two KeePassXC databases into a single database. It utilizes the PyKeePass library to handle the databases and perform the merge operation. I developed this script to help me keep instances of my persoanl password vaults synced, as I store my vaults locally as well as online drives.
 
 ## Capabilities
 
@@ -35,7 +35,7 @@ pip install pykeepass
 2. Run the script from your terminal:
 
     ```bash
-    python xkdb-merge.py path/to/DB1.kdbx path/to/DB2.kdbx
+    python kdbx-merge.py path/to/DB1.kdbx path/to/DB2.kdbx
     ```
 
 3. Enter the password for the databases when prompted.
